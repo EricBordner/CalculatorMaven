@@ -7,6 +7,7 @@ public class Main {
 		    Calculator c=new Calculator();
 		    
 		    System.out.println("Adding Two Numbers : " +c.add(2, 2));
+		    System.out.println("Subtracting 2 Numbers: " + c.subtract(4,2));
 		}
 		}
 
