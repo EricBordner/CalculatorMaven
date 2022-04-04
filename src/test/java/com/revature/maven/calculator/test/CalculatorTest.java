@@ -14,7 +14,7 @@ import com.revature.maven.calculator.Calculator;
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
 public class CalculatorTest {
 	
-//I just made some changes....
+//I just made some changes.... making changes
 
 	    static Calculator c=null;
 	    
